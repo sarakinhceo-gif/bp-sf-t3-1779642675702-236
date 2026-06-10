@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[마포 화곡 셔츠룸]]></title>
-  <link>https://sf-t3-1779642675702-236.pages.dev</link>
-  <description><![CDATA[마포 서버 웜업 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-  <language>ko-KR</language>
-  <pubDate>Thu, 28 May 2026 12:39:14 GMT</pubDate>
-  <lastBuildDate>Thu, 28 May 2026 12:39:14 GMT</lastBuildDate>
-  <atom:link href="https://sf-t3-1779642675702-236.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
+  <title><![CDATA[서버 웜업]]></title>
+  <link>https://sf-t3-1779642675702-236.vercel.app</link>
+  <description><![CDATA[서버 웜업 - 화곡 셔츠룸 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Wed, 10 Jun 2026 18:22:50 GMT</pubDate>
+  <lastBuildDate>Wed, 10 Jun 2026 18:22:50 GMT</lastBuildDate>
+  <atom:link href="https://sf-t3-1779642675702-236.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[마포 화곡 셔츠룸 - 공식 홈페이지 오픈 안내]]></title>
-      <link>https://sf-t3-1779642675702-236.pages.dev/</link>
-      <guid isPermaLink="true">https://sf-t3-1779642675702-236.pages.dev/</guid>
-      <description><![CDATA[마포 서버 웜업 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-      <pubDate>Thu, 28 May 2026 12:39:14 GMT</pubDate>
+      <title><![CDATA[서버 웜업 해결 방법 총정리 — 전문가가 알려주는 5가지 팁]]></title>
+      <link>https://sf-t3-1779642675702-236.vercel.app/posts/guide-001-1gbew9b.html</link>
+      <guid isPermaLink="true">https://sf-t3-1779642675702-236.vercel.app/posts/guide-001-1gbew9b.html</guid>
+      <description><![CDATA[아, 진짜... 이케아 PAX 옷장 행거 설치 간격에 따른 실제 효과를 알아볼까요? 35cm가 아닌 33.8cm로 조정했을 때 어떤 차이가 있을까? ### 구체성 원칙주요 정보: 조정된 간격은 단순 계산으로 33.8mm(마치 눈금 없는 카운팅 스틱처럼)에 정확히 맞춰졌]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[화곡 셔츠룸 처음 알아볼 때 실제로 많이 묻는 질문 5가지]]></title>
+      <link>https://sf-t3-1779642675702-236.vercel.app/posts/qa-002-1gbew9b.html</link>
+      <guid isPermaLink="true">https://sf-t3-1779642675702-236.vercel.app/posts/qa-002-1gbew9b.html</guid>
+      <description><![CDATA[### 제목: 창작한 제목"GS25와 CU의 차별화된 원재료로 만나는 디저트 맛과 식감 비교" #### ## 키워드 컨텍스트 - 화곡 셔츠룸 - 특정 디저트 원재료 차이 - GS25 vs CU 맛 비교 #### ### 흐름 속 지점 연결 GS25와 CU에서 동시 출시된]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
     </item>
 </channel>
 </rss>
